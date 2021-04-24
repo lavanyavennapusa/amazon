@@ -1,0 +1,11 @@
+script name is:  dbbackup.sh
+1st arg is:  dbname
+2nd arg is:  dbbloc
+3rd arg is: 
+10th arg is: 
+all the args:  dbname dbbloc
+ALL the args using @:  dbname dbbloc
+Number of args:  2
+PID:  2090
+previous cmd execution status: 127
+
