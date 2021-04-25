@@ -380,3 +380,39 @@ git config --global user.name "lavanya"
 git config --global --list
 git config --global user.email "lavanyavennapusa16@gmail.com"
 git config --global --list
+ls
+git --version
+cd ~
+git init
+clear
+cd ~
+git init
+ls -la
+pwd
+echo "hello guys" > hello.txt
+ls
+cat hello.txt
+vi dbutils.java
+ls
+git status
+git add .
+git status
+git add hello.txt
+git status
+git init add dbutils.java hello.txt
+git add .
+git commit -m "first commit.."
+git config --global --list
+git config --global user.name "lavanyavennapusa"
+git config --global --list
+clear
+git status
+git add .
+ls
+git add dbutils.java
+git status
+git add 
+git add .
+git status
+vi maven.txt
+git status
