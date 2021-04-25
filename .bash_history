@@ -416,3 +416,8 @@ git add .
 git status
 vi maven.txt
 git status
+vi maven.txt
+git status
+git add .
+git status
+git commit -m "first commit"
