@@ -421,3 +421,36 @@ git status
 git add .
 git status
 git commit -m "first commit"
+git remote add project1 https://github.com/lavanyavennapusa/project1.git
+git remote -v
+git push project1 master
+git push project1 master
+git remote add amazon https://github.com/lavanyavennapusa/amazon.git
+git remote  -v
+git push amazon master 
+git status
+clear
+git commit -a -m "Updated DBConnect.javafile"
+git status
+vi DBConnect.java
+git commit -a -m "Updated DBConnect.javafile"
+git add .
+git status
+git remote add kannanan https://github.com/kannayya-ec-projectapp/kannanana.git
+git remote -v
+git push kannanana master
+git push kannanana master
+git status
+git remote add kannanana https://github.com/kannayya-ec-projectapp/kannanana.git
+git remote -v
+git push kannanana master
+git clean -n
+git status
+git clean -f
+git status
+git -rm
+git rm
+git rm .bash_history
+git rmf .bash_history
+git rf .bash_history
+git rm .bash_history
